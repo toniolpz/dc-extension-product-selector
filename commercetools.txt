@@ -1,0 +1,28 @@
+Client credential flow
+More information
+Use these credentials to access the project via API:
+spark
+
+
+project_key
+spark
+
+
+client_id
+kfw6ZjfH-QhnkCqHSnFZO8DA
+
+
+secret
+EItKInLekL77W1KrHdY4osvU6wIA2xE0
+
+
+scope
+manage_my_shopping_lists:spark create_anonymous_token:spark manage_my_orders:spark view_categories:spark view_published_products:spark manage_my_profile:spark manage_my_payments:spark
+
+
+API URL
+https://api.us-central1.gcp.commercetools.com
+
+
+Auth URL
+https://auth.us-central1.gcp.commercetools.com
